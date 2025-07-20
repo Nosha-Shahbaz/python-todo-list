@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Buy groceries",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "title": "Finish project report",
+        "category": "Work",
+        "completed": true
+    },
+    {
+        "title": "Call the electrician",
+        "category": "Personal",
+        "completed": false
+    }
+]
